@@ -870,12 +870,18 @@ a:focus {
 .info_section .info_form form button {
   padding: 8px 35px;
   outline: none;
-  border: none;
   color: #ffffff;
-  background: #f1db25;
+  background: #ff6666;
   border-radius: 30px;
   margin-top: 15px;
   text-transform: uppercase;
+  border: 1px solid #ff6666;
+  transition: .3s;
+}
+
+.info_section .info_form form button:hover{
+  color: #ff6666;
+  background: transparent;
 }
 
 .info_section .info_form .social_box {
