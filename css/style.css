@@ -677,7 +677,7 @@ a:focus {
 .contact_section .contact_form-container button {
   display: inline-block;
   padding: 10px 60px;
-  background-color: #f1db25;
+  background-color: #ff6666;
   color: #ffffff;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -688,8 +688,8 @@ a:focus {
 
 .contact_section .contact_form-container button:hover {
   background-color: transparent;
-  border-color: #f1db25;
-  color: #f1db25;
+  border-color: #ff6666;
+  color: #ff6666;
 }
 
 .contact_bg_box {
