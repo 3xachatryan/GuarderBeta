@@ -596,11 +596,12 @@ a:focus {
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
   font-size: 18px;
+  transition: .3s;
 }
 
 .client_section .carousel-control-prev:hover,
 .client_section .carousel-control-next:hover {
-  background-color: #f1db25;
+  background-color: #ff6666;
 }
 
 .client_section .carousel-control-prev {
